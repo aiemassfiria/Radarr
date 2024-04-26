@@ -1713,7 +1713,7 @@
   "Uptime": "Uptime",
   "UrlBase": "URL Base",
   "UrlBaseHelpText": "For reverse proxy support, default is empty",
-  "UseHardlinksInsteadOfCopy": "Use Hardlinks instead of Copy",
+  "UseHardlinksInsteadOfCopy": "Use Move instead of Copy",
   "UseProxy": "Use Proxy",
   "UseSsl": "Use SSL",
   "Usenet": "Usenet",
