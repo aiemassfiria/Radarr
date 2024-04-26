@@ -1,6 +1,7 @@
 # Modified Radarr from AieMassfiria
 
 Change TransferMode.HardLinkOrCopy to TransferMode.Move, when completed download it moves the file instead of Hardlink. Good solution when using cloud storage. Much faster!!
+![2024-04-26_10-56-49](https://github.com/aiemassfiria/Radarr/assets/37018761/834e06a6-37f0-4fc9-a8c9-d8ff65737d82)
 
 [![Build Status](https://dev.azure.com/Radarr/Radarr/_apis/build/status/Radarr.Radarr?branchName=develop)](https://dev.azure.com/Radarr/Radarr/_build/latest?definitionId=1&branchName=develop)
 [![Translated](https://translate.servarr.com/widgets/servarr/-/radarr/svg-badge.svg)](https://translate.servarr.com/engage/radarr/?utm_source=widget)
